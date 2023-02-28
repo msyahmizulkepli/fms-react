@@ -1,6 +1,7 @@
 # fms-react
 Fleet Management System react-based dashboard which allows monitoring multiple robots using ROS. To be tested with multirobot_sim ros package from my repo.
 
+<img src="https://github.com/msyahmizulkepli/fms-react/blob/main/image.png">
 
 ### Software
 
@@ -38,6 +39,9 @@ roslaunch multirobot_sim gazebo.launch
 export TURTLEBOT3_MODEL=burger
 roslaunch multirobot_sim navigation.launch
 ```
+
+<img src="https://github.com/msyahmizulkepli/fms-react/blob/main/image1.png">
+
 ### Web Interface
 start rosbridge
 ```shell
@@ -48,3 +52,5 @@ start web app
 cd fms-react
 npm start
 ```
+
+<img src="https://github.com/msyahmizulkepli/fms-react/blob/main/image2.png">
