@@ -28,6 +28,8 @@ npm install
 
 
 ## Usage
+## Configure IPaddress
+Set ROSBRIDGE_SERVER_IP variable in the /fms-react/src/scripts/config.js directory to your ros IPaddress
 
 ### Multirobot Simulation
 
