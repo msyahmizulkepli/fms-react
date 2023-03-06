@@ -1,5 +1,5 @@
 # fms-react
-Fleet Management System react-based dashboard which allows monitoring and controlling multiple robots using ROS. To be tested with multirobot_sim ros package from my repo.
+React-based Fleet Management System UI dashboard which allows monitoring and controlling multiple robots using ROS. To be tested with multirobot_sim ros package from my repo.
 
 <img src="https://github.com/msyahmizulkepli/fms-react/blob/main/image.png">
 
